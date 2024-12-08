@@ -2,6 +2,15 @@
 Stock Market Analysis and Prediction is the project related to Exploratory data analysis(
 EDA), Data visualization and Predictive analysis using data, provided by The Investors Exchange (IEX). I looked at real-time financial data from the stock market. I have used **Python** programming language to get stock information, visualize different aspects of it, and finally I worked at a few ways of analyzing the risk of a stock, based on its previous performance history. I have also used statistical method called Monte Carlo Method to predict future stock prices.
 
+##Dataset Description
+ *Date: Date set by a company on which the investor must own shares.
+ *Open: Open refers the starting period (day) of trading.
+ *High: High refers highest price at which a stock is traded during a period.
+ *Low: Low refers the minimum price of a stock in a period.
+ *Closed: Closed refers the price of an individual stock when the stock exchange closed shop for the day.
+ *Adj Close: Adj Close refers Adjusted closing price.
+ *Volume: Volume refers an indicator of liquidity.
+
 #### Tools Used
 * Python v3.6
  * Python Libraries
